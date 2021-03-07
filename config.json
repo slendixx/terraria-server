@@ -13,7 +13,7 @@
   "MultiplayerNPCSmoothingRange": 300,
   "VolumeSound": 0.992126,
   "VolumeAmbient": 0.992126,
-  "VolumeMusic": 0.968503952,
+  "VolumeMusic": 0.0,
   "UnlockMusicSwap": false,
   "UseExperimentalFeatures": false,
   "Fullscreen": false,
