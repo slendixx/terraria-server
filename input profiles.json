@@ -508,7 +508,7 @@
       "Jump": ["Space"],
       "Throw": ["Q"],
       "Inventory": ["E"],
-      "Grapple": ["Tab"],
+      "Grapple": ["B"],
       "SmartSelect": ["LeftShift"],
       "SmartCursor": ["LeftControl"],
       "QuickMount": ["R"],
